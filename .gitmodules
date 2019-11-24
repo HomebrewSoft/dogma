@@ -1,0 +1,4 @@
+[submodule "partner_fields"]
+	path = partner_fields
+	url = https://github.com/HomebrewSoft/partner_fields
+	branch = master
