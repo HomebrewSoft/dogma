@@ -2,3 +2,7 @@
 	path = export_limit
 	url = https://github.com/HomebrewSoft/export_limit
 	branch = 13.0
+[submodule "partner_activities"]
+	path = partner_activities
+	url = https://github.com/HomebrewSoft/partner_activities
+	branch = 13.0
