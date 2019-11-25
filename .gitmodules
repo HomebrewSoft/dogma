@@ -6,3 +6,7 @@
 	path = partner_activities
 	url = https://github.com/HomebrewSoft/partner_activities
 	branch = 13.0
+[submodule "dogma_partner_fields"]
+	path = dogma_partner_fields
+	url = https://github.com/HomebrewSoft/dogma_partner_fields
+	branch = 13.0
