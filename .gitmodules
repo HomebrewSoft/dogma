@@ -10,3 +10,7 @@
 	path = dogma_partner_fields
 	url = https://github.com/HomebrewSoft/dogma_partner_fields
 	branch = 13.0
+[submodule "calls_menu"]
+	path = calls_menu
+	url = https://github.com/HomebrewSoft/calls_menu
+	branch = 13.0
